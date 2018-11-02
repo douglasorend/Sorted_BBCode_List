@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE modification SYSTEM "http://www.simplemachines.org/xml/modification">
+<modification xmlns="http://www.simplemachines.org/xml/modification" xmlns:smf="http://www.simplemachines.org/">
+<id>Dougiefresh:SortedBBCodes</id>
+<name>Sorted BBCode List</name>
+<version>1.0</version>
+	
+<file name="$sourcedir/ManageServer.php">
+	<operation>
+		<search position="before"><![CDATA[$bbcTags = array_unique($bbcTags);]]></search>
+		<add><![CDATA[
+		asort($bbcTags);]]></add>
+	</operation>
+</file>
+</modification>
