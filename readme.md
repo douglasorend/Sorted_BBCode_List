@@ -1,23 +1,26 @@
-[hr]
-[center][color=red][size=16pt][b]SORTED BBCODE LIST v1.2[/b][/size][/color]
-[url=http://www.simplemachines.org/community/index.php?action=profile;u=253913][b]By Dougiefresh[/b][/url] -> [url=http://custom.simplemachines.org/mods/index.php?mod=3998]Link to Mod[/url]
-[/center]
-[hr]
+-------
 
-[color=blue][b][size=12pt][u]Introduction[/u][/size][/b][/color]
-This mod alphabetizes the BBCode list that you see when you go to [b]Admin[/b] => [b]Forum[/b] => [b]Posts and Topics[/b] => [b]Bulletin Board Code[/b].
+# SORTED BBCODE LIST v1.2
 
-[color=blue][b][size=12pt][u]Admin Settings[/u][/size][/b][/color]
+[**By Dougiefresh**](http://www.simplemachines.org/community/index.php?action=profile;u=253913) -> [Link to Mod](http://custom.simplemachines.org/mods/index.php?mod=3998)
+
+-------
+
+## Introduction
+This mod alphabetizes the BBCode list that you see when you go to **Admin** => **Forum** => **Posts and Topics** => **Bulletin Board Code**.
+
+## Admin Settings
 There are no admin settings to this mod.  To disable, you must uninstall this mod.
 
-[color=blue][b][size=12pt][u]Compatibility Notes[/u][/size][/b][/color]
+## Compatibility Notes
 This mod was tested on SMF 2.0.9, but should work on any version of SMF 2.0.x.  SMF 1.x and SMF 2.1 is not and will not be supported.
 
-[color=blue][b][size=12pt][u]Changelog[/u][/size][/b][/color]
-The changelog can be viewed at [url=http://www.xptsp.com/board/free-modifications/sorted-bbcode-list/?tab=1]XPtsp.com[/url].
+## Changelog
+The changelog can be viewed at [XPtsp.com](http://www.xptsp.com/board/free-modifications/sorted-bbcode-list/?tab=1).
 
-[color=blue][b][size=12pt][u]License[/u][/size][/b][/color]
+## License
 Copyright (c) 2014 - 2018, Douglas Orend
+
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
