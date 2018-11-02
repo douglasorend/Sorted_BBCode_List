@@ -1,0 +1,5 @@
+v1.1 - January 19th, 2015
+o License change to Simplified BSD.  No functionality change.
+
+v1.0 - December 7th, 2014
+o Initial Release of the mod
